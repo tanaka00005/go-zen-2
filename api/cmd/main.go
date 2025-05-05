@@ -5,7 +5,7 @@ import (
 	"context"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tanaka00005/api/internal/presenter"
+	"github.com/tanaka00005/go-zen-2/internal/presenter"
 )
 
 func main() {
